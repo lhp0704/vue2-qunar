@@ -1,0 +1,1 @@
+export const currentCity = state => state.currentCity
